@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2em;
+            word-break: break-word;
+        }
+        .video-container {
+            width: 100%;
+            background: #000;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        video {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .controls-info {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f9f9f9;
+            border-radius: 10px;
+            text-align: center;
+            color: #666;
+        }
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 12px 25px;
+            background: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+        .back-button:hover {
+            background: #5a6268;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="button-group">
+            <a href="/videos" class="back-button">← Back to Videos</a>
+            <a href="/" class="back-button">🏠 Home</a>
+        </div>
+
+        <h1>{{ filename }}</h1>
+
+        <div class="video-container">
+            <video id="videoPlayer" controls autoplay>
+                <source src="/stream/{{ filename }}" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+        <div class="controls-info" id="infoBox">
+            <strong>Tip:</strong> Use the video controls to play, pause, adjust volume, and fullscreen.
+        </div>
+
+        <script>
+            const video = document.getElementById('videoPlayer');
+            const infoBox = document.getElementById('infoBox');
+
+            video.addEventListener('error', function(e) {
+                console.error('Video error:', e);
+                infoBox.style.background = '#f8d7da';
+                infoBox.style.color = '#721c24';
+                infoBox.innerHTML = '<strong>Playback Error:</strong> This video format (HEVC/H.265) may not be supported by your browser. Try using Safari or a different browser, or re-download the video with conversion enabled.';
+            });
+
+            video.addEventListener('loadedmetadata', function() {
+                console.log('Video loaded successfully');
+            });
+
+            video.addEventListener('canplay', function() {
+                console.log('Video can play');
+            });
+        </script>
+    </div>
+</body>
+</html>

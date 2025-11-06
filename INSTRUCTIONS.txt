@@ -1,0 +1,58 @@
+LAB06 - APPLICATIONS INSTRUCTIONS
+==================================
+
+INSTALLATION
+------------
+Dependencies are already installed using uv. If you need to reinstall:
+$ uv sync
+
+QUESTION 1: POKEMON SEARCH APP
+-------------------------------
+This application allows you to search for Pokemon and view:
+- Types
+- Moves (first 10)
+- 4 images (front default, front shiny, back default, back shiny)
+
+TO RUN:
+$ uv run python app_pokemon.py
+
+OR:
+$ source .venv/bin/activate
+$ python app_pokemon.py
+
+Then open your browser at: http://localhost:8000
+
+USAGE:
+1. Enter a Pokemon name (e.g., pikachu, charizard, mewtwo)
+2. View the Pokemon's types, moves, and images
+
+QUESTION 2: VIDEO DOWNLOADER APP
+----------------------------------
+This application downloads videos from:
+- YouTube
+- Instagram
+- TikTok
+- And many other platforms supported by yt-dlp
+
+TO RUN:
+$ uv run python app_video_downloader.py
+
+OR:
+$ source .venv/bin/activate
+$ python app_video_downloader.py
+
+Then open your browser at: http://localhost:8001
+
+USAGE:
+1. Enter a video URL from YouTube, Instagram, or TikTok
+2. Click "Download Video"
+3. The video will be saved to the "downloads" folder
+
+NOTE:
+- Both applications can run simultaneously on different ports
+- Pokemon app runs on port 8000
+- Video downloader runs on port 8001
+- Downloaded videos are saved in the "downloads" folder
+
+STOPPING THE APPLICATIONS:
+Press Ctrl+C in the terminal where the app is running

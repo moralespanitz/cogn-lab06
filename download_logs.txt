@@ -1,0 +1,298 @@
+2025-11-06 18:27:14,010 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:27:14,011 - INFO - URL: https://www.youtube.com/watch?v=1aA1WGON49E
+2025-11-06 18:27:14,011 - INFO - Starting video extraction...
+2025-11-06 18:27:25,413 - INFO - Downloading: 100.0% | Speed:    204.36B/s | ETA: 00:00
+2025-11-06 18:27:25,414 - INFO - Downloading:  18.8% | Speed:    204.36B/s | ETA: 00:00
+2025-11-06 18:27:25,415 - INFO - Downloading:  14.6% | Speed:    204.36B/s | ETA: 00:00
+2025-11-06 18:27:25,416 - INFO - Downloading:  13.4% | Speed:    204.36B/s | ETA: 00:00
+2025-11-06 18:27:25,492 - INFO - Downloading:  12.9% | Speed:    6.01KiB/s | ETA: 00:01
+2025-11-06 18:27:25,571 - INFO - Downloading:  12.7% | Speed:   15.58KiB/s | ETA: 00:02
+2025-11-06 18:27:25,655 - INFO - Downloading:  12.6% | Speed:   32.74KiB/s | ETA: 00:03
+2025-11-06 18:27:25,753 - INFO - Downloading:  12.5% | Speed:   64.42KiB/s | ETA: 00:04
+2025-11-06 18:27:25,772 - INFO - Downloading:   7.4% | Speed:   64.42KiB/s | ETA: 00:04
+2025-11-06 18:27:25,774 - INFO - Downloading:   3.1% | Speed:   64.42KiB/s | ETA: 00:04
+2025-11-06 18:27:27,106 - INFO - Downloading:  12.5% | Speed:   98.74KiB/s | ETA: 00:04
+2025-11-06 18:27:27,107 - INFO - Downloading:  12.6% | Speed:   98.74KiB/s | ETA: 00:04
+2025-11-06 18:27:27,107 - INFO - Downloading:  12.7% | Speed:   98.74KiB/s | ETA: 00:04
+2025-11-06 18:27:27,107 - INFO - Downloading:  12.8% | Speed:   98.74KiB/s | ETA: 00:04
+2025-11-06 18:27:27,192 - INFO - Downloading:  13.1% | Speed:  125.26KiB/s | ETA: 00:05
+2025-11-06 18:27:27,271 - INFO - Downloading:  13.7% | Speed:  146.59KiB/s | ETA: 00:06
+2025-11-06 18:27:27,369 - INFO - Downloading:  14.7% | Speed:  168.38KiB/s | ETA: 00:06
+2025-11-06 18:27:27,466 - INFO - Downloading:  16.2% | Speed:  199.30KiB/s | ETA: 00:07
+2025-11-06 18:27:27,554 - INFO - Downloading:  18.2% | Speed:  253.41KiB/s | ETA: 00:07
+2025-11-06 18:27:27,651 - INFO - Downloading:  20.4% | Speed:  354.96KiB/s | ETA: 00:07
+2025-11-06 18:27:27,725 - INFO - Downloading:  18.8% | Speed:  506.38KiB/s | ETA: 00:07
+2025-11-06 18:27:27,727 - INFO - Downloading:   6.8% | Speed:  506.38KiB/s | ETA: 00:07
+2025-11-06 18:27:29,039 - INFO - Downloading:  18.8% | Speed:  616.29KiB/s | ETA: 00:07
+2025-11-06 18:27:29,040 - INFO - Downloading:  18.8% | Speed:  616.29KiB/s | ETA: 00:07
+2025-11-06 18:27:29,041 - INFO - Downloading:  18.8% | Speed:  616.29KiB/s | ETA: 00:07
+2025-11-06 18:27:29,042 - INFO - Downloading:  18.8% | Speed:  616.29KiB/s | ETA: 00:07
+2025-11-06 18:27:29,122 - INFO - Downloading:  18.9% | Speed:  686.88KiB/s | ETA: 00:08
+2025-11-06 18:27:29,204 - INFO - Downloading:  19.0% | Speed:  730.94KiB/s | ETA: 00:08
+2025-11-06 18:27:29,296 - INFO - Downloading:  19.3% | Speed:  760.02KiB/s | ETA: 00:08
+2025-11-06 18:27:29,388 - INFO - Downloading:  19.9% | Speed:  787.16KiB/s | ETA: 00:08
+2025-11-06 18:27:29,484 - INFO - Downloading:  20.9% | Speed:  828.12KiB/s | ETA: 00:08
+2025-11-06 18:27:43,999 - INFO - Downloading:  20.6% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:27:44,004 - INFO - Downloading:  14.7% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:27:45,434 - INFO - Downloading:  25.0% | Speed:    213.82B/s | ETA: 03:17:33
+2025-11-06 18:27:45,434 - INFO - Downloading:  25.0% | Speed:    213.82B/s | ETA: 03:17:33
+2025-11-06 18:27:45,435 - INFO - Downloading:  25.0% | Speed:    213.82B/s | ETA: 03:17:33
+2025-11-06 18:27:45,436 - INFO - Downloading:  25.1% | Speed:    213.82B/s | ETA: 03:17:33
+2025-11-06 18:27:45,521 - INFO - Downloading:  25.1% | Speed:    6.26KiB/s | ETA: 02:58:29
+2025-11-06 18:27:45,621 - INFO - Downloading:  25.3% | Speed:   16.02KiB/s | ETA: 02:40:59
+2025-11-06 18:27:45,685 - INFO - Downloading:  25.6% | Speed:   33.79KiB/s | ETA: 02:25:04
+2025-11-06 18:27:45,769 - INFO - Downloading:  26.1% | Speed:   66.81KiB/s | ETA: 02:10:40
+2025-11-06 18:27:45,874 - INFO - Downloading:  27.1% | Speed:  128.45KiB/s | ETA: 01:57:39
+2025-11-06 18:27:45,931 - INFO - Downloading:  26.8% | Speed:  204.80KiB/s | ETA: 01:45:56
+2025-11-06 18:27:45,933 - INFO - Downloading:  20.6% | Speed:  204.80KiB/s | ETA: 01:45:56
+2025-11-06 18:27:47,345 - INFO - Downloading:  31.3% | Speed:  259.60KiB/s | ETA: 01:35:22
+2025-11-06 18:27:47,345 - INFO - Downloading:  31.3% | Speed:  259.60KiB/s | ETA: 01:35:22
+2025-11-06 18:27:47,346 - INFO - Downloading:  31.3% | Speed:  259.60KiB/s | ETA: 01:35:22
+2025-11-06 18:27:47,346 - INFO - Downloading:  31.3% | Speed:  259.60KiB/s | ETA: 01:35:22
+2025-11-06 18:27:47,435 - INFO - Downloading:  31.4% | Speed:  297.22KiB/s | ETA: 01:25:52
+2025-11-06 18:27:47,550 - INFO - Downloading:  31.5% | Speed:  321.82KiB/s | ETA: 01:17:18
+2025-11-06 18:27:47,611 - INFO - Downloading:  31.8% | Speed:  344.67KiB/s | ETA: 01:09:37
+2025-11-06 18:27:47,717 - INFO - Downloading:  32.4% | Speed:  371.96KiB/s | ETA: 01:02:41
+2025-11-06 18:27:47,815 - INFO - Downloading:  33.4% | Speed:  417.93KiB/s | ETA: 56:26
+2025-11-06 18:27:47,956 - INFO - Downloading:  35.2% | Speed:  502.19KiB/s | ETA: 50:49
+2025-11-06 18:27:48,249 - INFO - Downloading:  34.4% | Speed:  587.23KiB/s | ETA: 45:45
+2025-11-06 18:27:48,250 - INFO - Downloading:  24.1% | Speed:  587.23KiB/s | ETA: 45:45
+2025-11-06 18:27:49,349 - INFO - Downloading:  37.5% | Speed:  631.40KiB/s | ETA: 41:11
+2025-11-06 18:27:49,350 - INFO - Downloading:  37.5% | Speed:  631.40KiB/s | ETA: 41:11
+2025-11-06 18:27:49,350 - INFO - Downloading:  37.5% | Speed:  631.40KiB/s | ETA: 41:11
+2025-11-06 18:27:49,351 - INFO - Downloading:  37.6% | Speed:  631.40KiB/s | ETA: 41:11
+2025-11-06 18:27:49,432 - INFO - Downloading:  37.6% | Speed:  657.89KiB/s | ETA: 37:05
+2025-11-06 18:27:49,513 - INFO - Downloading:  37.7% | Speed:  672.82KiB/s | ETA: 33:24
+2025-11-06 18:27:49,600 - INFO - Downloading:  38.0% | Speed:  683.56KiB/s | ETA: 30:05
+2025-11-06 18:27:49,693 - INFO - Downloading:  38.4% | Speed:  698.99KiB/s | ETA: 27:05
+2025-11-06 18:27:49,788 - INFO - Downloading:  39.3% | Speed:  732.71KiB/s | ETA: 24:24
+2025-11-06 18:27:49,855 - INFO - Downloading:  39.7% | Speed:  788.51KiB/s | ETA: 21:58
+2025-11-06 18:27:49,855 - INFO - Downloading:  32.8% | Speed:  788.51KiB/s | ETA: 21:58
+2025-11-06 18:27:51,515 - INFO - Downloading:  43.8% | Speed:  667.59KiB/s | ETA: 19:48
+2025-11-06 18:27:51,518 - INFO - Downloading:  43.8% | Speed:  667.59KiB/s | ETA: 19:48
+2025-11-06 18:27:51,520 - INFO - Downloading:  43.8% | Speed:  667.59KiB/s | ETA: 19:48
+2025-11-06 18:27:51,521 - INFO - Downloading:  43.8% | Speed:  667.59KiB/s | ETA: 19:48
+2025-11-06 18:27:51,601 - INFO - Downloading:  43.9% | Speed:  582.50KiB/s | ETA: 17:51
+2025-11-06 18:27:51,681 - INFO - Downloading:  44.0% | Speed:  523.10KiB/s | ETA: 16:06
+2025-11-06 18:27:51,770 - INFO - Downloading:  44.2% | Speed:  485.23KiB/s | ETA: 14:31
+2025-11-06 18:27:51,865 - INFO - Downloading:  44.7% | Speed:  469.48KiB/s | ETA: 13:06
+2025-11-06 18:27:51,961 - INFO - Downloading:  45.6% | Speed:  483.10KiB/s | ETA: 11:49
+2025-11-06 18:27:52,063 - INFO - Downloading:  47.3% | Speed:  543.49KiB/s | ETA: 10:39
+2025-11-06 18:27:52,064 - INFO - Downloading:  43.9% | Speed:  543.49KiB/s | ETA: 10:39
+2025-11-06 18:27:52,067 - INFO - Downloading:  37.9% | Speed:  543.49KiB/s | ETA: 10:39
+2025-11-06 18:27:53,454 - INFO - Downloading:  50.0% | Speed:  543.28KiB/s | ETA: 09:36
+2025-11-06 18:27:53,456 - INFO - Downloading:  50.0% | Speed:  543.28KiB/s | ETA: 09:36
+2025-11-06 18:27:53,456 - INFO - Downloading:  50.0% | Speed:  543.28KiB/s | ETA: 09:36
+2025-11-06 18:27:53,458 - INFO - Downloading:  50.1% | Speed:  543.28KiB/s | ETA: 09:36
+2025-11-06 18:27:53,543 - INFO - Downloading:  50.1% | Speed:  540.39KiB/s | ETA: 08:40
+2025-11-06 18:27:53,623 - INFO - Downloading:  50.2% | Speed:  536.80KiB/s | ETA: 07:49
+2025-11-06 18:27:53,717 - INFO - Downloading:  50.5% | Speed:  536.25KiB/s | ETA: 07:03
+2025-11-06 18:27:53,814 - INFO - Downloading:  50.9% | Speed:  545.83KiB/s | ETA: 06:22
+2025-11-06 18:27:53,913 - INFO - Downloading:  51.8% | Speed:  577.52KiB/s | ETA: 05:45
+2025-11-06 18:27:53,915 - INFO - Downloading:  50.1% | Speed:  577.52KiB/s | ETA: 05:45
+2025-11-06 18:27:53,917 - INFO - Downloading:  46.7% | Speed:  577.52KiB/s | ETA: 05:45
+2025-11-06 18:27:55,776 - INFO - Downloading:  56.3% | Speed:  472.23KiB/s | ETA: 05:13
+2025-11-06 18:27:55,776 - INFO - Downloading:  56.3% | Speed:  472.23KiB/s | ETA: 05:13
+2025-11-06 18:27:55,776 - INFO - Downloading:  56.3% | Speed:  472.23KiB/s | ETA: 05:13
+2025-11-06 18:27:55,777 - INFO - Downloading:  56.3% | Speed:  472.23KiB/s | ETA: 05:13
+2025-11-06 18:27:55,867 - INFO - Downloading:  56.4% | Speed:  399.69KiB/s | ETA: 04:44
+2025-11-06 18:27:55,959 - INFO - Downloading:  56.5% | Speed:  350.23KiB/s | ETA: 04:18
+2025-11-06 18:27:56,043 - INFO - Downloading:  56.7% | Speed:  320.70KiB/s | ETA: 03:55
+2025-11-06 18:27:56,135 - INFO - Downloading:  57.2% | Speed:  311.76KiB/s | ETA: 03:33
+2025-11-06 18:27:56,267 - INFO - Downloading:  58.1% | Speed:  328.69KiB/s | ETA: 03:13
+2025-11-06 18:27:56,410 - INFO - Downloading:  59.9% | Speed:  387.19KiB/s | ETA: 02:55
+2025-11-06 18:27:56,449 - INFO - Downloading:  57.6% | Speed:  387.19KiB/s | ETA: 02:55
+2025-11-06 18:27:56,450 - INFO - Downloading:  49.2% | Speed:  387.19KiB/s | ETA: 02:55
+2025-11-06 18:27:58,159 - INFO - Downloading:  62.5% | Speed:  425.26KiB/s | ETA: 02:38
+2025-11-06 18:27:58,159 - INFO - Downloading:  62.5% | Speed:  425.26KiB/s | ETA: 02:38
+2025-11-06 18:27:58,160 - INFO - Downloading:  62.5% | Speed:  425.26KiB/s | ETA: 02:38
+2025-11-06 18:27:58,161 - INFO - Downloading:  62.6% | Speed:  425.26KiB/s | ETA: 02:38
+2025-11-06 18:27:58,247 - INFO - Downloading:  62.6% | Speed:  450.06KiB/s | ETA: 02:23
+2025-11-06 18:27:58,320 - INFO - Downloading:  62.7% | Speed:  466.85KiB/s | ETA: 02:10
+2025-11-06 18:27:58,401 - INFO - Downloading:  63.0% | Speed:  481.22KiB/s | ETA: 01:58
+2025-11-06 18:27:58,504 - INFO - Downloading:  63.4% | Speed:  499.50KiB/s | ETA: 01:47
+2025-11-06 18:27:58,586 - INFO - Downloading:  64.3% | Speed:  534.89KiB/s | ETA: 01:37
+2025-11-06 18:27:58,676 - INFO - Downloading:  64.8% | Speed:  587.98KiB/s | ETA: 01:28
+2025-11-06 18:27:58,677 - INFO - Downloading:  57.4% | Speed:  587.98KiB/s | ETA: 01:28
+2025-11-06 18:27:59,971 - INFO - Downloading:  68.8% | Speed:  550.72KiB/s | ETA: 01:20
+2025-11-06 18:27:59,972 - INFO - Downloading:  68.8% | Speed:  550.72KiB/s | ETA: 01:20
+2025-11-06 18:27:59,972 - INFO - Downloading:  68.8% | Speed:  550.72KiB/s | ETA: 01:20
+2025-11-06 18:27:59,972 - INFO - Downloading:  68.8% | Speed:  550.72KiB/s | ETA: 01:20
+2025-11-06 18:28:00,057 - INFO - Downloading:  68.9% | Speed:  523.11KiB/s | ETA: 01:13
+2025-11-06 18:28:00,139 - INFO - Downloading:  69.0% | Speed:  502.91KiB/s | ETA: 01:07
+2025-11-06 18:28:00,237 - INFO - Downloading:  69.2% | Speed:  491.58KiB/s | ETA: 01:01
+2025-11-06 18:28:00,328 - INFO - Downloading:  69.7% | Speed:  495.50KiB/s | ETA: 00:56
+2025-11-06 18:28:00,872 - INFO - Downloading:  70.6% | Speed:  496.19KiB/s | ETA: 00:51
+2025-11-06 18:28:00,987 - INFO - Downloading:  71.1% | Speed:  526.51KiB/s | ETA: 00:46
+2025-11-06 18:28:00,989 - INFO - Downloading:  63.5% | Speed:  526.51KiB/s | ETA: 00:46
+2025-11-06 18:28:02,466 - INFO - Downloading:  75.0% | Speed:  470.71KiB/s | ETA: 00:43
+2025-11-06 18:28:02,467 - INFO - Downloading:  75.0% | Speed:  470.71KiB/s | ETA: 00:43
+2025-11-06 18:28:02,468 - INFO - Downloading:  75.0% | Speed:  470.71KiB/s | ETA: 00:43
+2025-11-06 18:28:02,474 - INFO - Downloading:  75.1% | Speed:  470.71KiB/s | ETA: 00:43
+2025-11-06 18:28:02,557 - INFO - Downloading:  75.1% | Speed:  431.55KiB/s | ETA: 00:39
+2025-11-06 18:28:02,634 - INFO - Downloading:  75.2% | Speed:  404.76KiB/s | ETA: 00:36
+2025-11-06 18:28:02,725 - INFO - Downloading:  75.5% | Speed:  389.59KiB/s | ETA: 00:34
+2025-11-06 18:28:02,817 - INFO - Downloading:  75.9% | Speed:  389.05KiB/s | ETA: 00:31
+2025-11-06 18:28:02,916 - INFO - Downloading:  76.8% | Speed:  410.84KiB/s | ETA: 00:29
+2025-11-06 18:28:03,010 - INFO - Downloading:  78.6% | Speed:  474.68KiB/s | ETA: 00:26
+2025-11-06 18:28:03,015 - INFO - Downloading:  75.3% | Speed:  474.68KiB/s | ETA: 00:26
+2025-11-06 18:28:03,017 - INFO - Downloading:  68.6% | Speed:  474.68KiB/s | ETA: 00:26
+2025-11-06 18:28:04,394 - INFO - Downloading:  81.3% | Speed:  497.34KiB/s | ETA: 00:24
+2025-11-06 18:28:04,394 - INFO - Downloading:  81.3% | Speed:  497.34KiB/s | ETA: 00:24
+2025-11-06 18:28:04,395 - INFO - Downloading:  81.3% | Speed:  497.34KiB/s | ETA: 00:24
+2025-11-06 18:28:04,395 - INFO - Downloading:  81.3% | Speed:  497.34KiB/s | ETA: 00:24
+2025-11-06 18:28:04,479 - INFO - Downloading:  81.4% | Speed:  510.69KiB/s | ETA: 00:22
+2025-11-06 18:28:04,559 - INFO - Downloading:  81.5% | Speed:  518.41KiB/s | ETA: 00:20
+2025-11-06 18:28:04,648 - INFO - Downloading:  81.7% | Speed:  526.03KiB/s | ETA: 00:19
+2025-11-06 18:28:04,750 - INFO - Downloading:  82.2% | Speed:  540.92KiB/s | ETA: 00:17
+2025-11-06 18:28:04,848 - INFO - Downloading:  83.0% | Speed:  576.45KiB/s | ETA: 00:16
+2025-11-06 18:28:05,615 - INFO - Downloading:  84.8% | Speed:  606.93KiB/s | ETA: 00:14
+2025-11-06 18:28:05,694 - INFO - Downloading:  85.6% | Speed:  690.14KiB/s | ETA: 00:13
+2025-11-06 18:28:05,696 - INFO - Downloading:  81.8% | Speed:  690.14KiB/s | ETA: 00:13
+2025-11-06 18:28:05,697 - INFO - Downloading:  71.6% | Speed:  690.14KiB/s | ETA: 00:13
+2025-11-06 18:28:07,702 - INFO - Downloading:  87.5% | Speed:  637.34KiB/s | ETA: 00:12
+2025-11-06 18:28:07,704 - INFO - Downloading:  87.5% | Speed:  637.34KiB/s | ETA: 00:12
+2025-11-06 18:28:07,705 - INFO - Downloading:  87.5% | Speed:  637.34KiB/s | ETA: 00:12
+2025-11-06 18:28:07,708 - INFO - Downloading:  87.6% | Speed:  637.34KiB/s | ETA: 00:12
+2025-11-06 18:28:07,785 - INFO - Downloading:  87.6% | Speed:  578.19KiB/s | ETA: 00:11
+2025-11-06 18:28:07,876 - INFO - Downloading:  87.7% | Speed:  512.44KiB/s | ETA: 00:11
+2025-11-06 18:28:07,943 - INFO - Downloading:  87.9% | Speed:  471.53KiB/s | ETA: 00:10
+2025-11-06 18:28:08,039 - INFO - Downloading:  88.3% | Speed:  454.30KiB/s | ETA: 00:09
+2025-11-06 18:28:08,118 - INFO - Downloading:  88.9% | Speed:  463.56KiB/s | ETA: 00:09
+2025-11-06 18:28:08,119 - INFO - Downloading:  84.6% | Speed:  463.56KiB/s | ETA: 00:09
+2025-11-06 18:28:09,443 - INFO - Downloading:  93.8% | Speed:  404.51KiB/s | ETA: 00:08
+2025-11-06 18:28:09,444 - INFO - Downloading:  93.8% | Speed:  404.51KiB/s | ETA: 00:08
+2025-11-06 18:28:09,444 - INFO - Downloading:  93.8% | Speed:  404.51KiB/s | ETA: 00:08
+2025-11-06 18:28:09,444 - INFO - Downloading:  93.8% | Speed:  404.51KiB/s | ETA: 00:08
+2025-11-06 18:28:09,521 - INFO - Downloading:  93.9% | Speed:  364.69KiB/s | ETA: 00:08
+2025-11-06 18:28:09,598 - INFO - Downloading:  94.0% | Speed:  338.59KiB/s | ETA: 00:07
+2025-11-06 18:28:09,685 - INFO - Downloading:  94.2% | Speed:  326.35KiB/s | ETA: 00:07
+2025-11-06 18:28:09,761 - INFO - Downloading:  94.5% | Speed:  331.12KiB/s | ETA: 00:06
+2025-11-06 18:28:09,762 - INFO - Downloading:  92.1% | Speed:  331.12KiB/s | ETA: 00:06
+2025-11-06 18:28:13,103 - INFO - Downloading: 100.0% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:28:13,105 - INFO - Downloading: 100.0% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:28:13,107 - INFO - Downloading: 100.0% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:28:13,108 - INFO - Downloading: 100.0% | Speed:      0.00B/s | ETA: Unknown
+2025-11-06 18:28:13,109 - INFO - Download finished: downloads/A one minute TEDx Talk for the digital age ｜ Woody Roseland ｜ TEDxMileHigh.mp4
+2025-11-06 18:28:13,109 - INFO - Processing file...
+2025-11-06 18:28:13,649 - INFO - SUCCESS: Video saved as 'A one minute TEDx Talk for the digital age | Woody Roseland | TEDxMileHigh.mp4'
+2025-11-06 18:28:13,650 - INFO - File size: Unknown bytes
+2025-11-06 18:28:13,650 - INFO - Duration: 81 seconds
+2025-11-06 18:28:13,650 - INFO - ==========================================
+
+2025-11-06 18:28:42,126 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:28:42,126 - INFO - URL: https://www.tiktok.com/@soy_lesly18/video/7564659631914634552
+2025-11-06 18:28:42,127 - INFO - Starting video extraction...
+2025-11-06 18:28:43,921 - INFO - Downloading:   0.2% | Speed:  190.55KiB/s | ETA: 00:02
+2025-11-06 18:28:43,929 - INFO - Downloading:   0.6% | Speed:  242.11KiB/s | ETA: 00:01
+2025-11-06 18:28:43,948 - INFO - Downloading:   1.5% | Speed:  216.83KiB/s | ETA: 00:02
+2025-11-06 18:28:44,003 - INFO - Downloading:   3.2% | Speed:  171.77KiB/s | ETA: 00:02
+2025-11-06 18:28:44,081 - INFO - Downloading:   6.7% | Speed:  187.26KiB/s | ETA: 00:02
+2025-11-06 18:28:44,241 - INFO - Downloading:  13.5% | Speed:  193.52KiB/s | ETA: 00:02
+2025-11-06 18:28:44,580 - INFO - Downloading:  27.3% | Speed:  191.02KiB/s | ETA: 00:01
+2025-11-06 18:28:45,236 - INFO - Downloading:  54.8% | Speed:  193.13KiB/s | ETA: 00:01
+2025-11-06 18:28:46,237 - INFO - Downloading:  96.7% | Speed:  193.96KiB/s | ETA: 00:00
+2025-11-06 18:28:46,297 - INFO - Downloading: 100.0% | Speed:  195.53KiB/s | ETA: 00:00
+2025-11-06 18:28:46,298 - INFO - Download finished: downloads/Mi triste realidad JAJAJA'🫩🍒🌴#viral #paratiiiiiiiiiiiiiiiiiiiiiiiiiii....mp4
+2025-11-06 18:28:46,298 - INFO - Processing file...
+2025-11-06 18:28:46,315 - INFO - SUCCESS: Video saved as 'Mi triste realidad JAJAJA'🫩🍒🌴#viral #paratiiiiiiiiiiiiiiiiiiiiiiiiiii....mp4'
+2025-11-06 18:28:46,315 - INFO - File size: 476866 bytes
+2025-11-06 18:28:46,315 - INFO - Duration: 8 seconds
+2025-11-06 18:28:46,315 - INFO - ==========================================
+
+2025-11-06 18:29:20,901 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:29:20,901 - INFO - URL: https://www.instagram.com/p/DQmGhjuDWyC/
+2025-11-06 18:29:20,902 - INFO - Starting video extraction...
+2025-11-06 18:29:22,423 - INFO - Downloading:   0.0% | Speed:  157.38KiB/s | ETA: 00:48
+2025-11-06 18:29:22,436 - INFO - Downloading:   0.0% | Speed:  153.72KiB/s | ETA: 00:49
+2025-11-06 18:29:22,452 - INFO - Downloading:   0.1% | Speed:  198.15KiB/s | ETA: 00:38
+2025-11-06 18:29:22,510 - INFO - Downloading:   0.2% | Speed:  160.17KiB/s | ETA: 00:47
+2025-11-06 18:29:22,602 - INFO - Downloading:   0.4% | Speed:  167.44KiB/s | ETA: 00:45
+2025-11-06 18:29:22,764 - INFO - Downloading:   0.8% | Speed:  181.96KiB/s | ETA: 00:41
+2025-11-06 18:29:23,082 - INFO - Downloading:   1.7% | Speed:  190.79KiB/s | ETA: 00:39
+2025-11-06 18:29:23,695 - INFO - Downloading:   3.3% | Speed:  199.66KiB/s | ETA: 00:37
+2025-11-06 18:29:24,757 - INFO - Downloading:   6.1% | Speed:  198.48KiB/s | ETA: 00:36
+2025-11-06 18:29:25,730 - INFO - Downloading:   8.6% | Speed:  199.60KiB/s | ETA: 00:35
+2025-11-06 18:29:26,723 - INFO - Downloading:  11.3% | Speed:  200.55KiB/s | ETA: 00:33
+2025-11-06 18:29:27,734 - INFO - Downloading:  13.9% | Speed:  200.73KiB/s | ETA: 00:32
+2025-11-06 18:29:28,593 - INFO - Downloading:  16.5% | Speed:  205.46KiB/s | ETA: 00:31
+2025-11-06 18:29:29,359 - INFO - Downloading:  19.6% | Speed:  216.61KiB/s | ETA: 00:28
+2025-11-06 18:29:30,386 - INFO - Downloading:  23.6% | Speed:  227.17KiB/s | ETA: 00:25
+2025-11-06 18:29:31,803 - INFO - Downloading:  27.5% | Speed:  224.66KiB/s | ETA: 00:24
+2025-11-06 18:29:32,466 - INFO - Downloading:  30.2% | Speed:  230.80KiB/s | ETA: 00:23
+2025-11-06 18:29:33,497 - INFO - Downloading:  34.4% | Speed:  238.03KiB/s | ETA: 00:21
+2025-11-06 18:29:34,543 - INFO - Downloading:  38.4% | Speed:  242.92KiB/s | ETA: 00:19
+2025-11-06 18:29:35,518 - INFO - Downloading:  42.3% | Speed:  247.35KiB/s | ETA: 00:17
+2025-11-06 18:29:36,503 - INFO - Downloading:  46.2% | Speed:  251.52KiB/s | ETA: 00:16
+2025-11-06 18:29:37,540 - INFO - Downloading:  50.2% | Speed:  254.58KiB/s | ETA: 00:15
+2025-11-06 18:29:38,526 - INFO - Downloading:  54.1% | Speed:  257.38KiB/s | ETA: 00:13
+2025-11-06 18:29:39,708 - INFO - Downloading:  58.0% | Speed:  257.14KiB/s | ETA: 00:12
+2025-11-06 18:29:40,566 - INFO - Downloading:  61.3% | Speed:  258.97KiB/s | ETA: 00:11
+2025-11-06 18:29:41,611 - INFO - Downloading:  65.1% | Speed:  260.51KiB/s | ETA: 00:10
+2025-11-06 18:29:42,575 - INFO - Downloading:  68.9% | Speed:  262.12KiB/s | ETA: 00:09
+2025-11-06 18:29:43,558 - INFO - Downloading:  72.7% | Speed:  263.81KiB/s | ETA: 00:07
+2025-11-06 18:29:44,534 - INFO - Downloading:  76.6% | Speed:  265.67KiB/s | ETA: 00:06
+2025-11-06 18:29:45,599 - INFO - Downloading:  80.6% | Speed:  266.65KiB/s | ETA: 00:05
+2025-11-06 18:29:46,561 - INFO - Downloading:  84.3% | Speed:  267.91KiB/s | ETA: 00:04
+2025-11-06 18:29:47,594 - INFO - Downloading:  88.2% | Speed:  268.79KiB/s | ETA: 00:03
+2025-11-06 18:29:48,711 - INFO - Downloading:  92.0% | Speed:  268.38KiB/s | ETA: 00:02
+2025-11-06 18:29:49,583 - INFO - Downloading:  95.4% | Speed:  269.30KiB/s | ETA: 00:01
+2025-11-06 18:29:50,488 - INFO - Downloading:  99.3% | Speed:  271.18KiB/s | ETA: 00:00
+2025-11-06 18:29:50,705 - INFO - Downloading: 100.0% | Speed:  271.12KiB/s | ETA: 00:00
+2025-11-06 18:29:50,706 - INFO - Download finished: downloads/Video by personalbrandlaunch.mp4
+2025-11-06 18:29:50,707 - INFO - Processing file...
+2025-11-06 18:29:50,722 - INFO - SUCCESS: Video saved as 'Video by personalbrandlaunch.mp4'
+2025-11-06 18:29:50,722 - INFO - File size: Unknown bytes
+2025-11-06 18:29:50,722 - INFO - Duration: 66.34 seconds
+2025-11-06 18:29:50,722 - INFO - ==========================================
+
+2025-11-06 18:30:42,633 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:30:42,633 - INFO - URL: https://www.instagram.com/p/DQmGhjuDWyC/
+2025-11-06 18:30:42,634 - INFO - Starting video extraction...
+2025-11-06 18:30:43,322 - INFO - Download finished: downloads/Video by personalbrandlaunch.mp4
+2025-11-06 18:30:43,322 - INFO - Processing file...
+2025-11-06 18:30:43,327 - INFO - SUCCESS: Video saved as 'Video by personalbrandlaunch.mp4'
+2025-11-06 18:30:43,327 - INFO - File size: Unknown bytes
+2025-11-06 18:30:43,327 - INFO - Duration: 66.34 seconds
+2025-11-06 18:30:43,327 - INFO - ==========================================
+
+2025-11-06 18:32:46,104 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:32:46,105 - INFO - URL: https://www.instagram.com/p/DQmGhjuDWyC/
+2025-11-06 18:32:46,105 - INFO - Starting video extraction...
+2025-11-06 18:32:46,967 - INFO - Download finished: downloads/Video by personalbrandlaunch.mp4
+2025-11-06 18:32:46,967 - INFO - Processing file...
+2025-11-06 18:32:46,971 - INFO - SUCCESS: Video saved as 'Video by personalbrandlaunch.mp4'
+2025-11-06 18:32:46,972 - INFO - File size: Unknown bytes
+2025-11-06 18:32:46,972 - INFO - Duration: 66.34 seconds
+2025-11-06 18:32:46,972 - INFO - ==========================================
+
+2025-11-06 18:34:40,260 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:34:40,261 - INFO - URL: https://www.tiktok.com/@adeicpucp/video/7561520445531458834
+2025-11-06 18:34:40,261 - INFO - Starting video extraction...
+2025-11-06 18:34:41,594 - INFO - Downloading:   0.1% | Speed:  691.56KiB/s | ETA: 00:01
+2025-11-06 18:34:41,596 - INFO - Downloading:   0.4% | Speed:  983.89KiB/s | ETA: 00:00
+2025-11-06 18:34:41,596 - INFO - Downloading:   0.9% | Speed:    1.73MiB/s | ETA: 00:00
+2025-11-06 18:34:41,602 - INFO - Downloading:   1.9% | Speed:    1.62MiB/s | ETA: 00:00
+2025-11-06 18:34:41,608 - INFO - Downloading:   4.0% | Speed:    1.96MiB/s | ETA: 00:00
+2025-11-06 18:34:41,640 - INFO - Downloading:   8.1% | Speed:    1.31MiB/s | ETA: 00:00
+2025-11-06 18:34:41,677 - INFO - Downloading:  16.3% | Speed:    1.46MiB/s | ETA: 00:00
+2025-11-06 18:34:41,695 - INFO - Downloading:  32.8% | Speed:    2.43MiB/s | ETA: 00:00
+2025-11-06 18:34:41,741 - INFO - Downloading:  65.7% | Speed:    3.36MiB/s | ETA: 00:00
+2025-11-06 18:34:41,761 - INFO - Downloading: 100.0% | Speed:    4.51MiB/s | ETA: 00:00
+2025-11-06 18:34:41,761 - INFO - Download finished: downloads/terrible ese pase a facultad 😔👊🏻 #eeggcc #fci #pucp #fyp .mp4
+2025-11-06 18:34:41,761 - INFO - Processing file...
+2025-11-06 18:34:41,765 - INFO - SUCCESS: Video saved as 'terrible ese pase a facultad 😔👊🏻 #eeggcc #fci #pucp #fyp .mp4'
+2025-11-06 18:34:41,765 - INFO - File size: 796783 bytes
+2025-11-06 18:34:41,765 - INFO - Duration: 15 seconds
+2025-11-06 18:34:41,765 - INFO - ==========================================
+
+2025-11-06 18:35:25,297 - INFO - ========== NEW DOWNLOAD REQUEST ==========
+2025-11-06 18:35:25,297 - INFO - URL: https://www.tiktok.com/@adeicpucp/video/7561520445531458834
+2025-11-06 18:35:25,297 - INFO - Starting video extraction...
+2025-11-06 18:35:26,809 - INFO - Download finished: downloads/terrible ese pase a facultad 😔👊🏻 #eeggcc #fci #pucp #fyp .mp4
+2025-11-06 18:35:26,809 - INFO - Processing file...
+2025-11-06 18:35:26,815 - INFO - SUCCESS: Video saved as 'terrible ese pase a facultad 😔👊🏻 #eeggcc #fci #pucp #fyp .mp4'
+2025-11-06 18:35:26,815 - INFO - File size: 796783 bytes
+2025-11-06 18:35:26,815 - INFO - Duration: 15 seconds
+2025-11-06 18:35:26,815 - INFO - ==========================================
+

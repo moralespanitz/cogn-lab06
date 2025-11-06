@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Results</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        .error {
+            background: #fee;
+            border: 2px solid #fcc;
+            color: #c33;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        .types {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .type-badge {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+        .moves {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .move-item {
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        .sprites {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        .sprite-box {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .sprite-box img {
+            width: 150px;
+            height: 150px;
+            image-rendering: pixelated;
+        }
+        .sprite-box p {
+            margin-top: 10px;
+            font-weight: 600;
+            color: #555;
+        }
+        .back-button {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+        .back-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Pokemon Information</h1>
+
+        {% if error %}
+        <div class="error">
+            {{ error }}
+        </div>
+        {% endif %}
+
+        {% if pokemon %}
+        <h2 style="text-align: center; color: #764ba2; font-size: 2em; margin-bottom: 30px;">{{ pokemon.name }}</h2>
+
+        <div class="section">
+            <h2>Types</h2>
+            <div class="types">
+                {% for type in pokemon.types %}
+                <span class="type-badge">{{ type }}</span>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Moves (First 10)</h2>
+            <div class="moves">
+                {% for move in pokemon.moves %}
+                <div class="move-item">{{ move }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Images</h2>
+            <div class="sprites">
+                <div class="sprite-box">
+                    <img src="{{ pokemon.sprites.front_default }}" alt="Front Default">
+                    <p>Front (Default)</p>
+                </div>
+                <div class="sprite-box">
+                    <img src="{{ pokemon.sprites.front_shiny }}" alt="Front Shiny">
+                    <p>Front (Shiny)</p>
+                </div>
+                <div class="sprite-box">
+                    <img src="{{ pokemon.sprites.back_default }}" alt="Back Default">
+                    <p>Back (Default)</p>
+                </div>
+                <div class="sprite-box">
+                    <img src="{{ pokemon.sprites.back_shiny }}" alt="Back Shiny">
+                    <p>Back (Shiny)</p>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <a href="/" class="back-button">Search Another Pokemon</a>
+    </div>
+</body>
+</html>
